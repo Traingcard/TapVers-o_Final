@@ -9,6 +9,13 @@
             "name": "Launch main",
             "request": "launch",
             "mainClass": "main",
+            "projectName": "TapVers-o_Final_b4120c95"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
             "projectName": "TAP_d75608c"
         },
         {
