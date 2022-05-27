@@ -460,7 +460,7 @@ public class GestorAirViseu {
         }
     }
 
-    // TODO Compor listar passageiros por voo
+    //* DONE Compor listar passageiros por voo
     public void listarPassageirosVoos() throws IOException {
 
         lerVoos("voos.txt", 0);
