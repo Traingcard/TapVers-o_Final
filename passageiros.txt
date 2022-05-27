@@ -1,0 +1,216 @@
+209895071,ABDU SUMARE,Programador,93-Porto Saboroso-Coimbra-3004,1990
+249280264,ADAMASIO DANILO CORREA PERFETTI,Programador .NET,88-Estremeira-Botao-3020,1986
+153561149,ADELINO GOMES DA SILVA,Programador ABAP,21-Fonte Nova-Coimbra-3025,1999
+188402497,AFONSO MANUEL CARVALHO MARQUES,Programador ADVPL,62-Casal dos Pintos-Coimbra-3030,1963
+150327218,AGOSTINHO MANUEL TEIXEIRA,Programador Android,51-Condados de Buarcos-Coimbra-3034,2000
+148475060,AGOSTINHO RODRIGUES MOREIRA MAIA,Programador ASP,92-Buarcos-Abelheira-3040,1954
+225399210,AIDA ALEXANDRA PRATA CORREIA,Programador ASP.NET,10-Figueira da Foz-Cernache-3044,1989
+198860773,ALAN HANSEN,Programador Back-end,67-Praia de Buarcos-Ameal-3045,1970
+168095106,ALBERTO PINHEIRO DE MAGALHAES,Programador BPM,61-Serradinho-Coimbra-3049,1974
+194814084,ALCINA CARLA RAMOS ANDRADE,Programador C,22-Vais-AncA-3060,1960
+160857201,ALEXANDRE ILIDIO DA ROCHA RIBEIRO,Programador C#,71-Casal da Robala-Arneiro-3070,1999
+116540214,ALVARO AUGUSTO DE CARVALHO,Programador C++,5-Araujos-Araujos-3080,2001
+157409120,AMADEU DA COSTA OLIVEIRA,Programador Clipper,16-Brenha-Figueira da Foz-3084,1999
+213334607,AMADU LAMARANA DJALO,Programador CLP,52-Serra da Boa Viagem-Alhadas de Baixo-3090,1999
+142756628,AMANCIO ZENHA DE CASTRO,Programador CNC,77-Folhas-Marinha das Ondas-3094,1980
+125613288,ANA FELICIDADE MALVEIRO SILVA,Programador COBOL,31-Fonte do Casal-Alfarelos-3130,1976
+136423566,ANA MARIA DOS SANTOS PASSOS,Programador de Banco de Dados,51-Lirio-Abrunheira-3140,1984
+100673392,ANA MARIA GONcALVES DA MOTA,Programador de Bordado,50-Portela-Alvogadas-3150,1991
+163623112,ANA MARIA LOURENcO PEREIRA DE LEMOS,Programador de Business Intelligence,19-Vale Jorge-Casal de Ermio-3200,2000
+186921691,ANA PAULA TOMAS GARCIA,Programador de Centro de Usinagem,38-Mosqueiro-Azenha-3220,1999
+199777500,ANABELA DOS SANTOS MELO MARQUES,Programador de Jogos,59-Caceira de Baixo-Bouca-3230,1990
+255311931,ANGEL CARLOS SAENZ FERNANDEZ,Programador de ManutencAo,31-Casal Novo-Alagoa-3300,1973
+221602372,ANGEL PEDRO VAZQUEZ VELAZQUEZ,Programador de Materiais,67-Cova da Serpe-Anceriz-3305,1984
+181983494,ANTERO ANSUMANE INJAI,Programador de ProducAo,18-Ervedal-Cabril-3320,1959
+128628308,ANTONIO CARRAcA DA SILVA,Programador de Software,23-Murtinheira-Algares-3330,2001
+148482635,ANTONIO FERNANDO ZENHA DE CASTRO,Programador Delphi,50-Praia de Quiaios-Arrifana-3350,1950
+188828788,ANTONIO GONcALO LEOTE GUIMARAES DA COSTA OLIVEIRA,Programador Dynamics,16-Quiaios-Ameal-3360,1979
+124284108,ANTONIO JOSE ESTEVAO GONcALVES,Programador ETL,67-Saibreira-Aldeia das Dez-3400,2005
+210725613,ANTONIO JOSE MONTEIRO DA COSTA,Programador Flash,32-Serra de Santa Marinha-Bobadela-3405,2001
+163063206,ANTONIO MANUEL FERREIRA DE SOUSA,Programador Flex,57-Matioa-Azere-3420,1970
+172103606,ANTONIO MANUEL OLIVEIRA SANTOS,Programador Forms Reports,10-Saltadouro-Berreiros-6285,2000
+133487636,ANTONIO MARIA DE ALMEIDA,Programador Front-end,21-Vale Porco-Coimbra-3004,2004
+124049702,ANTONIO MARIA RAMOS ABREU,Programador Genexus,32-Vila Robim-Botao-3020,2003
+199829853,ANTONIO MARQUES CARDOSO,Programador iOS,3-UrbanizacAo Alto do Moinho-Coimbra-3025,1997
+146591224,ANTONIO MONTEIRO NOGUEIRA,Programador Java,7-Fonte da Lapa-Coimbra-3030,1965
+202763439,ANTONIO SERAFIM FARIA PEREIRA,Programador JavaScript,94-Tavarede-Coimbra-3034,1996
+146561643,ARMANDO LOURENcO PEREIRA DE LEMOS,Programador Linux,97-Cova da Serpe-Abelheira-3040,1981
+191770370,ARMINDO MIGUEL GONcALVES LEITAO,Programador Microsiga,17-Bom Sucesso-Cernache-3044,1964
+159613035,ARNALDO SOARES FELIX,Programador Mobile,56-CamarcAo-Ameal-3045,1964
+197643060,ARTUR PAULO RODRIGUES CARDOSO,Programador Oracle,51-Castanheiro-Coimbra-3049,2001
+102439672,ARTUR ROSA POUPINHA PIcARRA,Programador PHP,16-Lomba do Pau-AncA-3060,1954
+156514400,BELMIRA COUTINHO BRITO SANTOS PEREIRA,Programador PL SQL,51-Lomba do Poco Frio-Arneiro-3070,1988
+209722649,BERNARDETE CRISTINA DE BRITO ALVES,Programador PowerBuilder,15-Loureiros-Araujos-3080,2000
+214728897,BERNARDO LUIS RODRIGUEZ ORTEGA,Programador Progress,31-Marianas-Figueira da Foz-3084,1955
+230997384,BOTROS SHERIF,Programador Protheus,1-Martinhas-Alhadas de Baixo-3090,1990
+204823145,BRAIMA BALDE,Programador Python,16-Morros-Marinha das Ondas-3094,2000
+181558190,BRAIMA DJUMO,Programador QlikView,4-Regateiros-Alfarelos-3130,1997
+202494543,BUBACAR EMBALO,Programador Ruby on Rails,42-Pedros-Abrunheira-3140,1995
+183152670,CABA DJAMANCA,Programador SAP,14-Arneiro de Sazes-Alvogadas-3150,1983
+189804769,CARAMO CASSAMA,Programador SharePoint,62-Gestinha-Casal de Ermio-3200,1988
+153631899,CARLOS ALBERTO DE SOUSA MESQUITA FERNANDES,Programador SOA,32-rejieira-Azenha-3220,2002
+174481977,CARLOS ALBERTO PEREIRA GONcALVES,Programador SQL,43-Carritos-Bouca-3230,2002
+185699863,CARLOS ANTONIO PEREIRA MARTINS,Programador Trainee,80-Casal da Areia-Alagoa-3300,2002
+120472619,CARLOS DO POcO ROLO BONIFACIO,Programador Visual,31-ChA-Anceriz-3305,1987
+270308873,CARLOS GUZMAN VEGA,Programador Visual Basic,97-Condados de Tavarede-Cabril-3320,1969
+102503648,CARLOS JORGE LUDOVICO DA COSTA,Programador Visual FoxPro,37-Ferrugenta-Algares-3330,1978
+172683599,CARLOS MANUEL DE SOUSA ANDRADE,Programador Web,79-Casal de Ermio-Arrifana-3350,2001
+123559456,CARLOS MANUEL LOPES FERREIRA,Projetista,22-Casinha-Ameal-3360,1973
+149760272,CARLOS MANUEL RODRIGUES FERNANDES,Projetista 3D,58-Sacouto-Aldeia das Dez-3400,2004
+209601744,CARLOS MENDES DA VEIGA,Projetista Cadista,13-Vale Escuro-Bobadela-3405,1960
+126871469,CARLOS PEDRO BRANDAO DE MELO DE SOUSA E BRITO,Projetista Civil,15-Carris-Azere-3420,2001
+153671475,CARMEN ARLINDA FERREIRA TEIXEIRA,Projetista de Ar Condicionado,7-Casal Novo-Berreiros-6285,1966
+250239531,CLAIRE ANGELA VAN BRUGGEN,Projetista de AutomacAo,75-Forneas-Coimbra-3004,2000
+201700328,CLAUDIA MARIA DE ALMEIDA MARQUES PIMENTA,Projetista de Estruturas Metalicas,73-PadrAo-BotAo-3020,1975
+208558012,CLAUDIO MANUEL MONTEIRO DA SILVA,Projetista de Ferramentas,91-Parque Industrial dos Matinhos-Coimbra-3025,1986
+258833491,CORNEL GRIGORE TOADER,Projetista de IluminacAo,38-Pegos-Coimbra-3030,1950
+250218518,CSABA KILIN,Projetista de Instalacoes,24-Penedo-Coimbra-3034,1951
+148848184,DELFINA DOS SANTOS NOGUEIRA,Projetista de Maquinas,73-Picoto-Abelheira-3040,1999
+275486184,DENNYS PEREIRA DOS SANTOS,Projetista de Moldes,53-PisAo-Cernache-3044,1959
+160081343,DIAMANTINO JOAQUIM DESCALcO GAMEIRO,Projetista de Moveis,86-Pisoeiro-Ameal-3045,1971
+200982630,DINIS DHARMENDRA GULABCHANDE,Projetista de Produto,26-Pocas-Coimbra-3049,2003
+226994546,EDMUNDO EMBALO,Projetista de Telecomunicacoes,20-Ponte do Areal-Anca-3060,2005
+159411181,FERDINANDO DAS DORES MARTINS SOARES,Projetista Eletrico,55-Ponte Quadiz-Arneiro-3070,1971
+196894778,FERNANDA MARIA POLIGO VALENTE,Projetista Eletronico,37-Porta da Reguenga-Araujos-3080,1970
+137018754,FERNANDO ALBERTO XAVIER E SOUSA,Projetista Hidraulico,31-Portela de Vale Maceira-Figueira da Foz-3084,1960
+161688780,FERNANDO ALEXANDRE DA SILVEIRA SANTOS,Projetista Mecanico,96-Porto da Pedra-Alhadas de Baixo-3090,2000
+155486268,FERNANDO DOS SANTOS BARBOSA,Projetista Orcamentista,27-Pousafoles-Marinha das Ondas-3094,1994
+132629844,FERNANDO DUARTE CORREIA,Promotor de Credito,82-Povoa da LousA-Alfarelos-3130,1965
+114714711,FERNANDO DUQUE GARCIA,Promotor de Eventos,94-Ramalhais-Abrunheira-3140,1983
+253000610,FERNANDO PEDRO RIBEIRO FELIX,Promotor de Financiamento,71-Regueiro-Alvogadas-3150,2001
+192388401,FIRMINO MARQUES DA SILVA,Promotor de Merchandising,37-Reguengo-Casal de Ermio-3200,2004
+114034281,FRANCISCO CIPRIANO HONRADO,Promotor de Vendas,57-Ribeira-Azenha-3220,1958
+203811216,FRANCISCO DEMBEL BALDE,Promotor Tecnico,97-Ribeiro Branco-Bouca-3230,1972
+189432381,FRANCISCO JOSE DA CRUZ LEITAO,Propagandista,52-Santa Luzia-Alagoa-3300,1970
+204896665,FREDERICO OCTAVIO MOREIRA GUEDES,Protetico,95-Talasnal-Anceriz-3305,1979
+222211938,GUANPING LIU,Psicologo,81-Tapada do Penedo-Cabril-3320,2001
+233305319,GUILLERMO MENAL ALONSO,Psicologo Clinico,80-Tapada Regueiro-Algares-3330,1975
+154916935,HUMBERTO DA CRUZ RUIVO,Psicologo do Transito,92-Vale da Velha-Arrifana-3350,1957
+194541924,IDRIcA CASSAMA,Psicologo Escolar,47-Vale de Neira-Ameal-3360,1999
+161533132,INACIO JOSE DA GRAcA SEGURADO,Psicologo Hospitalar,47-Vale de Neira-a-Velha-Aldeia das Dez-3400,1982
+212271555,ISABEL RAMOS DE OLIVEIRA ANDRESSON,Psicologo Organizacional,62-Vale Domingos-Bobadela-3405,1979
+190829613,IZABEL MARIA FERREIRA DOS SANTOS,Psicologo Social,19-Vale Maceira-Azere-3420,1961
+198486650,JACINTA ROSA LOPES FLOR MACIEIRA,Psicomotricista,9-Vale Nogueira-Berreiros-6285,1992
+128730501,JACINTO JOSE VILAR MOURA RIBEIRO,Psicopedagogo,28-Vale Pereira do Areal-Coimbra-3004,1955
+136641393,JAIME AUGUSTO VALADAS DOS SANTOS,Publicitario,9-Vale Porto da Pedra-BotAo-3020,2001
+159483387,JERONIMO DOS SANTOS CARDOSO,Professor de EducacAo Artistica,33-Vaqueirinho-Coimbra-3025,1995
+246040254,JESUS FELIX VEGAZO CABRERA,Professor de EducacAo Especial,49-Zambujeiro-Coimbra-3030,2001
+269364439,JING ZHAN,Professor de EducacAo Fisica,66-Zona Industrial do Alto do PadrAo-Coimbra-3034,1956
+155117556,JOAQUIM ANTONIO FIGUEIREDO DA SILVA,Professor de Educacao Infantil,53-Fonte dos Mouros-Abelheira-3040,1965
+188119540,JOAQUIM FABIAO DE AMORIM,Professor de Eletrica,18-LousA-Cernache-3044,2000
+121674339,JOAQUIM MANUEL BARREIRO DA SILVA,Professor de Eletronica,58-Alcaide-Ameal-3045,1997
+175708452,JOAQUIM MARIO CARNEIRO DA SILVA,Professor de Eletrotecnica,10-Almas-Coimbra-3049,1985
+150993897,JOAQUIM PORFIRIO SOARES DA SILVA,Professor de Empreendedorismo,85-Amiais-Anca-3060,1986
+119087707,JORGE AUGUSTO LOPES VIDAL BANDEIRA,Professor de Enfermagem,54-Avessada-Arneiro-3070,1960
+108491510,JORGE MANUEL BARRETO DE MELO CARDOSO,Professor de Engenharia,35-Bairro da Estacao-Araujos-3080,1991
+164944516,JORGE MANUEL CORREIA CARVALHO,Professor de Engenharia Ambiental,49-Boavista-Figueira da Foz-3084,1982
+194155374,JORGE MANUEL CORREIA VIRTUOSO SEBASTIAO,Professor de Engenharia Civil,85-Boque-Alhadas de Baixo-3090,1955
+201901625,JORGE MANUEL RAMOS PEREIRA,Professor de Engenharia da Computacao,60-Bracal-Marinha das Ondas-3094,1963
+134511077,JORGE MANUEL VIEIRA DOS SANTOS,Professor de Engenharia de Producao,33-Breja-Alfarelos-3130,1971
+190606878,JORGE PAULO MESQUITA VIEGAS,Professor de Engenharia Eletrica,85-Cabanoes-Abrunheira-3140,1963
+175302812,JOSE ALBERTO MARTINS BARRETO,Professor de Engenharia Mecanica,99-Cabril-Alvogadas-3150,2001
+278542786,JOSE ANTONIO DE LA PUERTA CORREA,Professor de Engenharia Mecatronica,54-Campos-Casal de Ermio-3200,1953
+209217421,JOSE DE JESUS VAZ LIMA,Professor de Ensino a Distancia,82-Casal de Santo Antonio-Azenha-3220,1978
+211385948,JOSE EMIDIO MENDES TAVARES,Professor de Ensino Fundamental,77-Casal SAo Miguel-Bouca-3230,1982
+196860466,JOSE FILIPE FERREIRA DA SILVA PACHECO,Professor de Ensino Medio,31-Catassilva-Alagoa-3300,1974
+158114990,JOSE FIRMINO FERREIRA DE ALMEIDA,Professor de Ensino Religioso,8-ChA-Anceriz-3305,2002
+141862645,JOSE FRANCISCO MOURA PLACIDO,Professor de Ensino Tecnico,44-Codessais-Cabril-3320,1960
+175371881,JOSE HORTA ANDRE,Professor de Espanhol,15-Covas-Algares-3330,1997
+177427930,JOSE JULIO SILVA DA COSTA LEITE,Professor de Estatistica,1-Feira dos Bois-Arrifana-3350,1989
+183118057,JOSE MANUEL FERNANDES TEIXEIRA SALGADO,Professor de Estetica e Cosmetologia,40-Fonte Fria-Ameal-3360,2004
+179683403,JOSE MANUEL NUNES ROMAO,Professor de etica,72-Gandara-Aldeia das Dez-3400,1975
+148501648,JOSE MANUEL XAVIER E SOUSA,Professor de ExpressAo Corporal,75-Golpilhares-Bobadela-3405,2005
+118046268,JOSE MARIA DUARTE JUNIOR,Professor de Farmacia,77-Levegadas-Azere-3420,1952
+170170977,JOSE RIBEIRO DA COSTA,Professor de Filosofia,51-Lomba-Berreiros-6285,1972
+205584306,JOAO ALBERTO TAVARES DOS SANTOS,Professor de Fisica,77-Lomba de Alveite-Coimbra-3004,1965
+115691472,JOAO ANTONIO DA ROCHA BARRADAS VARGES,Professor de Fisioterapia,65-Maria Mendes-Botao-3020,1968
+113924925,JOAO BACHIR AJUN KHAN,Professor de Fotografia,78-Matas-Coimbra-3025,1982
+157508650,JOAO BARCINIO MORAIS DE CARVALHO PINTO,Professor de Frances,83-Moinho Velho-Coimbra-3030,1987
+201381150,JOAO CARLOS COUTINHO PINTO,Professor de Futebol,82-Moinhos-Coimbra-3034,1962
+204583098,JOAO DUARTE FROTA BAPTISTA FERREIRA MATEUS,Professor de Gastronomia,87-Outeiro-Abelheira-3040,2001
+276822641,JOAO FERNANDO VIEIRA FILHO,Professor de Geografia,44-Passal-Cernache-3044,1981
+195448731,JOAO FILIPE JARDIM LEANDRO,Estudante,12-Pereiro-Ameal-3045,2013
+138967857,JOAO GUALBERTO SEMEDO,Professor de GestAo da Qualidade,75-Pico-Coimbra-3049,1954
+114625808,JOAO HILARIO DA TRINDADE,Professor de GestAo de Projetos,33-Ponte-AncA-3060,1966
+166578967,JOAO MANUEL PEREIRA DE SOUSA,Professor de GestAo Financeira,75-Povoa-Arneiro-3070,1991
+140770070,JOAO MARQUES BARROSO,Estudante,17-4 aguas-Araujos-3080,2013
+143620754,JOAO MOREIRA DA SILVA GONcALVES,Professor de Ginastica,35-Quinta-Figueira da Foz-3084,1980
+179344684,JULIO MANUEL DE SOUSA CUNHA,Professor de Ginastica Laboral,92-Redoica-Alhadas de Baixo-3090,1995
+267771746,KAIYAN WAN,Professor de Grego,74-Relvas-Marinha das Ondas-3094,1970
+209208325,LASSANA DJALO,Professor de Hebraico,17-Ribeira Cimeira-Alfarelos-3130,2004
+133604934,LEOPOLDO GUERRA MENDES,Professor de Hidroginastica,30-Ribeira do Conde-Abrunheira-3140,2004
+146893476,LIDIA MANUELA DOS SANTOS TEIXEIRA MOREIRA,Estudante,36-Ribeira Fundeira-Alvogadas-3150,2007
+162004087,LUIS MANUEL NUNES DA CUNHA ANTAS,Professor de Holandes,74-Rodas-Casal de Ermio-3200,1971
+171036514,LUIS MANUEL VIEIRA DE ALMEIDA,Professor de Hotelaria,96-Santo Aleixo-Azenha-3220,1971
+205094180,MADALENA MARIA DE OLIVEIRA MOREIRA MAIA,Professor de Hotelaria e Turismo,49-Santo Ovideo-Bouca-3230,1999
+210877537,MAMADOU BAH,Professor de Idiomas,72-Serobela-Alagoa-3300,1959
+193348713,MAMADU ALIU JALO,Professor de Informatica,33-Silvares-Anceriz-3305,1981
+200484079,MAMUDO DANSO,Estudante,28-SoutelA-Cabril-3320,2005
+127634460,MANUEL ALFREDO DIAS SANTOS LEITE,Professor de Ingles e Espanhol,29-Soutelo-Algares-3330,1984
+148482627,MANUEL AUGUSTO ZENHA DE CASTRO,Professor de Ingles e Portugues,3-Terra da Gaga-Arrifana-3350,1970
+204439833,MANUEL DO NASCIMENTO VIEGAS D ABREU RITA,Professor de Italiano,65-Tojal-Ameal-3360,1950
+117052302,MANUEL FONSECA DA SILVA,Professor de Japones,32-Valada-Aldeia das Dez-3400,1977
+141710500,MANUEL JOAQUIM CORREIA CANECA,Estudante,21-Vale Carvalhos-Bobadela-3405,2011
+114706050,MANUEL JOSE CAROCHA,Professor de Letras,42-Vale Figueira-Azere-3420,1970
+128552620,MANUEL JOSE NUNES,Professor de Libras,88-Vale Madeiros-Berreiros-6285,1953
+156311119,MANUEL LOPES MENDES,Professor de Literatura,66-Vale Raiz-Coimbra-3004,1989
+118588800,MANUEL NICOLAU FORTES,Professor de Logistica,86-Valeiro-BotAo-3020,1997
+157380726,MANUEL PEREIRA DE SOUSA,Estudante,98-Vila Cova do Barro-Coimbra-3025,2010
+160995914,MANUEL ZEFERINO PINTO FERREIRA,Professor de Manicure,70-Bairro do Emigrante-Coimbra-3030,1998
+202033295,MARCO PAULO RAIMUNDO DOS SANTOS,Professor de Maquiagem,59-Casais-Coimbra-3034,1950
+159438276,MARIA ANTONIA DE SA BARREIRA,Professor de Marketing,40-Casal Espirito Santo-Abelheira-3040,1973
+142495654,MARIA AUGUSTA RIBEIRO NUNES,Estudante,46-CovAo-Cernache-3044,2008
+214758877,MARIA CECILIA DE SOUSA MONTEIRO VEIGA,Professor de Matematica,80-CovAo de Baixo-Ameal-3045,1958
+150753519,MARIA DE FATIMA DA FONSECA PINTO,Professor de Matematica Financeira,66-Cruz da Gandara-Coimbra-3049,1959
+159482933,MARIA DO CEU CORREIA DE PAIVA,Professor de Mecanica,79-Fiscal-AncA-3060,2002
+125097786,MARIA EUGENIA DOS SANTOS RIBEIRO MARTINHO,Professor de Mecanica Aeronautica,63-Freixo-Arneiro-3070,1991
+110199022,MARIA GABRIELA ONOFRE LOPES MOURA PLACIDO,Professor de Medicina,44-Gandara-Araujos-3080,1950
+111846617,MARIA JOSE DOS SANTOS REIS CORREIA,Professor de Medicina do Trabalho,93-Mo de Fiscal-Figueira da Foz-3084,1979
+141131420,MARIA MONTEIRO LEITAO DE SOUSA FILIPE,Estudante,95-Povoa de Fiscal-Alhadas de Baixo-3090,2005
+120630486,MARIA ROSA LUCAS DO CARMO,Professor de Moda,56-PrilhAo-Marinha das Ondas-3094,1975
+180347845,MATILDE MARIA PAULA MARTINS ROCHA DIAS FORTES,Professor de Musculacao,86-Quinta do Fiscal-Alfarelos-3130,1963
+252173066,MICHAEL BRIAN CUSACK,Estudante,15-Regadas do Vale-Abrunheira-3140,2010
+146893689,MIGUEL DA SILVA MOREIRA,Professor de NatacAo,15-Reguengo-Alvogadas-3150,1996
+222518103,MOHAMED SYLLA,Professor de Noruegues,33-Relvas do Freixo-Casal de Ermio-3200,1965
+201785870,NADY ADLY BOTROS,Professor de NutricAo,34-Ribeira dos Casais-Azenha-3220,1985
+215809777,NELSON MANUEL MACHADO CARDOSO,Professor de Odontologia,68-Ribeira Maior-Bouca-3230,1964
+243208677,NELSON RICARDO CERQUEIRA DOS SANTOS,Estudante,85-Rogela-Alagoa-3300,2013
+197469663,NUNO ALEXANDRE ALVES DE OLIVEIRA,Professor de Pedagogia,93-Sarnadinha-Anceriz-3305,1997
+110749448,ODETE AIDA DA CONCEIcAO DIAS,Professor de Petroleo e Gas,72-Tapada de Fiscal-Cabril-3320,1983
+166895946,OLGA HERMINIA DE OLIVEIRA PIMENTEL TORRES,Professor de Photoshop,79-Tapada do Tanque-Algares-3330,1989
+105415600,OLGA MARIA MIRANDA BARARDO,Estudante,70-Vale-Arrifana-3350,2005
+249959062,PASCUAL DIAZ SANCHEZ,Professor de Pintura em Tela,76-Vinhas de Fiscal-Ameal-3360,1957
+188257861,PAULA CRISTINA DA CUNHA PEREIRA SILVA,Estudante,57-ChA do Freixo-Aldeia das Dez-3400,2008
+196993261,PAULO JORGE DA SILVA,Professor de Portugues,43-Vilarinho-Bobadela-3405,1987
+164575448,PAULO JORGE MENDES VENTOSA,Professor de ProgramacAo de Computadores,77-Rascoas-Azere-3420,1976
+183465032,PAULO JORGE SOUSA LOPES,Professor de ProgramacAo de Redes,86-Vila Seca-Berreiros-6285,2002
+209217316,PAULO SERGIO DA SILVA CORREIA,Professor de Protese Dentaria,40-Varzea de Candosa-Coimbra-3004,1995
+256627959,PEDRO DAVOCA ESPERANcA,Professor de Psicanalise,52-Avelar-BotAo-3020,1963
+198801157,PEDRO MANUEL COELHO BENTO,Professor de Psicologia,81-Quinta da Barroca-Coimbra-3025,1967
+206694741,PEDRO MIGUEL RAMIRO SANTOS,Estudante,73-Valongo-Coimbra-3030,2011
+108982017,POSSIDONIO LINO DOS SANTOS NOGUEIRA,Professor de Publicidade e Propaganda,90-Vila ChA-Coimbra-3034,1973
+261503103,REBECA ANTUNES LIMA BARROS,Professor de Quimica,8-Raposeira-Abelheira-3040,1973
+123,123,123,123,1122
+1,Jardel,Pescador,Fodase,111
+19,Viegas,Trolha,Rua,2002
+12,jOEL,Trollha,Vie,2012
+12,se,wdqe,qwe,213
+20,qwe,qwe,qwe,12
+20,wer,qwe,qwe,213
+31231,Joel,asdasd,wqeqwes,1231
+20202,sadqdas,asdasda,sadas,3123
+55654,qweqweq,qweqweqwe,qeqweq,1231
+123123,Joel,QWEQEQ,wqeqweqw,12321
+1231231,eqweqw,eqweqwe,eqweqwe,123
+1234,Joel,Rua,Vida,12312
+123512,qweqwewqe,qwetry,eqwerty,123321
+234123,QWEQWESAD,QWEASDG,WQEASDASD,12312
+123123123,qweqwe,qweqwe,wqeqweq,wqeqwe
+123123123,123123,123123,123123,123123
+123123123,sadxczxzc,zxczxczxc,czxczxc,23123123
+123123,Hugo,fesad,qwesda,12312
+123123123,wqesad,qweasd,qwesad,12312
+9786,qweasxsad,cxczxc,qweqw,12321
+123123,qweqw,sdadsa,xcq,12312wqe
+798897,qwesda,qweqwsad,adsasd,123123
+12332,Miguel,Trolha,ERWER,21212
